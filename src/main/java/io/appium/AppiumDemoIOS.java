@@ -10,13 +10,13 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * @ClassName AppiumDemo
+ * @ClassName AppiumDemoIOS
  * @Description IOS-AppiumDemo
  * @Author huangxiang
  * @Date 2018/11/21 3:28 PM
  * @Version 1.0
  **/
-public class AppiumDemo {
+public class AppiumDemoIOS {
 
     private IOSDriver driver;
 
@@ -43,7 +43,7 @@ public class AppiumDemo {
 
     @Test
     public void testDemo()  {
-        throw new UnsupportedOperationException();
+
 
     }
 
